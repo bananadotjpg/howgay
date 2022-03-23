@@ -7,5 +7,4 @@ int main(){
 	printf("You are ");
 	printf("%d", rand() % 101);
 	printf("%% gay \n");
-
 }
